@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author":"Mangaliso Mtembu"
+	"author":"Mangaliso Mtembu",
+	"description": "I am learning how to build microservices in nodeJS"
 }
